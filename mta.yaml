@@ -5,7 +5,7 @@
 _schema-version: '3.1'
 ID: shop
 version: 1.0.0
-description: "A simple CAP project"
+description: "A simple CAP project."
 parameters:
   enable-parallel-deployments: true
    
